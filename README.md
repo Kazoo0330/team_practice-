@@ -1,10 +1,3 @@
-test
+testtest
 
-testtttttttooooooooooooooooooo
-
-
-
-KAZOO
-
-
-かずー
+testtttttttooooooooooooooooー
